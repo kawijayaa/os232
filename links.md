@@ -9,3 +9,4 @@ permalink: LINKS/
 * [Bash Cheatsheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) --- Pretty self explanatory. Cheatsheet for most-used bash commands
 * [Asymmetric Encryption Simply Explained](https://www.youtube.com/watch?v=AQDCe585Lnc) --- An explanation on how asymmetric encryption works.
 * [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) --- One of the videos that helped me understand how pointers work in C.
+* [Linux Directories Explained in 100 seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- Another great video by Fireship, now talking about the Linux File System.
