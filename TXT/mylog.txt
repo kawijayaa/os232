@@ -16,3 +16,5 @@ ZCZC W03 45 L09 Assignment W03
 ZCZC W03 10 L03 Github related
 ZCZC W03 10 L04 Github pages related
 ZCZC W03 20 L05 Quiz related including studying
+ZCZC W04 30 L09 Assignment W04
+ZCZC W04 99 L02 CLASSROOM/ZOOM meetings related

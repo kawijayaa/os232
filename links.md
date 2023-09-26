@@ -10,3 +10,4 @@ permalink: LINKS/
 * [Asymmetric Encryption Simply Explained](https://www.youtube.com/watch?v=AQDCe585Lnc) --- An explanation on how asymmetric encryption works.
 * [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) --- One of the videos that helped me understand how pointers work in C.
 * [Linux Directories Explained in 100 seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- Another great video by Fireship, now talking about the Linux File System.
+* [Makefile 101](https://alextan.medium.com/makefile-101-56ba4590025b) --- A simple guide on Makefiles with screenshots.
