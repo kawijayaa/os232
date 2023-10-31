@@ -21,3 +21,6 @@ ZCZC W04 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 30 L09 Assignment W05
 ZCZC W05 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 30 L09 Assignment W06

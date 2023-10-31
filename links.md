@@ -12,3 +12,4 @@ permalink: LINKS/
 * [Linux Directories Explained in 100 seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- Another great video by Fireship, now talking about the Linux File System.
 * [Makefile 101](https://alextan.medium.com/makefile-101-56ba4590025b) --- A simple guide on Makefiles with screenshots.
 * [What is kernel panic?](https://www.techtarget.com/searchdatacenter/definition/kernel-panic) --- Explanation about kernel panic in operating systems.
+* [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU) --- Fairly short video abobut process management and differences between processes and threads
