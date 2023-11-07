@@ -13,3 +13,4 @@ permalink: LINKS/
 * [Makefile 101](https://alextan.medium.com/makefile-101-56ba4590025b) --- A simple guide on Makefiles with screenshots.
 * [What is kernel panic?](https://www.techtarget.com/searchdatacenter/definition/kernel-panic) --- Explanation about kernel panic in operating systems.
 * [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU) --- Fairly short video abobut process management and differences between processes and threads
+* [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux) --- An explanation about process synchronization in an operating system.

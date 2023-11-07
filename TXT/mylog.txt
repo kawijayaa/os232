@@ -24,3 +24,8 @@ ZCZC W05 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 30 L09 Assignment W06
+ZCZC W07 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 30 L09 Assignment W07
+ZCZC W07 30 L05 Quiz related including studying
+ZCZC W07 15 L05 Quiz related including studying
