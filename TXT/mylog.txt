@@ -27,3 +27,6 @@ ZCZC W06 30 L09 Assignment W06
 ZCZC W07 30 L09 Assignment W07
 ZCZC W07 30 L05 Quiz related including studying
 ZCZC W07 15 L05 Quiz related including studying
+ZCZC W08 60 L09 Assignment W08
+ZCZC W08 30 L05 Quiz related including studying
+ZCZC W08 15 L05 Quiz related including studying
