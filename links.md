@@ -16,3 +16,4 @@ permalink: LINKS/
 * [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux) --- An explanation about process synchronization in an operating system.
 * [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/?ref=lbp) --- Explanation about CPU Scheduling in Operating Systems
 * [What is GRUB?](https://www.codecademy.com/resources/blog/grub-linux/) --- A short read about GRUB (GRand Unified Bootloader)
+* [Operating System - I/O Softwares](https://www.tutorialspoint.com/operating_system/os_io_software.htm) --- Short read about the concept of I/O software.
